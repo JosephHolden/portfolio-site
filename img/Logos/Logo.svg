@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Profile Picture Copy</title>
+    <defs>
+        <linearGradient x1="100%" y1="16.080136%" x2="-27.3032388%" y2="113.991088%" id="linearGradient-1">
+            <stop stop-color="#646F8E" stop-opacity="0.915646853" offset="0%"></stop>
+            <stop stop-color="#292F44" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.2175931%" y1="53.4289162%" x2="2.08802321%" y2="34.7180911%" id="linearGradient-2">
+            <stop stop-color="#EEEEEE" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.08890628%" y1="34.7180911%" x2="100%" y2="65.2819089%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#B6B6B6" stop-opacity="0" offset="36.6979253%"></stop>
+            <stop stop-color="#ACACAC" stop-opacity="0" offset="56.7821651%"></stop>
+            <stop stop-color="#02114A" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-18.7842358,27.5 L86.7842358,27.5 C91.5978195,27.5 95.5,31.4021805 95.5,36.2157642 L95.5,86.7842358 C95.5,91.5978195 91.5978195,95.5 86.7842358,95.5 L-18.7842358,95.5 C-23.5978195,95.5 -27.5,91.5978195 -27.5,86.7842358 L-27.5,36.2157642 C-27.5,31.4021805 -23.5978195,27.5 -18.7842358,27.5 Z" id="path-4"></path>
+        <filter x="-15.7%" y="-25.4%" width="136.2%" height="165.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1.76254316" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="3" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="26.9655172" y="5.85714286" width="13.4827586" height="2.92857143" rx="1.46428571"></rect>
+        <filter x="-7.4%" y="-34.1%" width="114.8%" height="168.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Profile-Picture-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="180" height="180"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="180" height="180"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="180" height="180"></rect>
+        <g id="Group-Copy" transform="translate(56.000000, 28.000000)">
+            <g id="Rectangle" transform="translate(34.000000, 61.500000) rotate(90.000000) translate(-34.000000, -61.500000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use stroke="url(#linearGradient-3)" stroke-width="0.525086321" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="Rectangle">
+                <use fill="#9E9D9D" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+            </g>
+        </g>
+    </g>
+</svg>

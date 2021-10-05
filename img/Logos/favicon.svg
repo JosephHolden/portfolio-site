@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Favicon </title>
+    <defs>
+        <linearGradient x1="100%" y1="16.080136%" x2="-27.3032388%" y2="113.991088%" id="linearGradient-1">
+            <stop stop-color="#646F8E" stop-opacity="0.915646853" offset="0%"></stop>
+            <stop stop-color="#292F44" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.2175931%" y1="53.4289162%" x2="2.08802321%" y2="34.7180911%" id="linearGradient-2">
+            <stop stop-color="#EEEEEE" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.08890628%" y1="34.7180911%" x2="100%" y2="65.2819089%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#B6B6B6" stop-opacity="0" offset="36.6979253%"></stop>
+            <stop stop-color="#ACACAC" stop-opacity="0" offset="56.7821651%"></stop>
+            <stop stop-color="#02114A" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-1.66970985,2.44444444 L7.7141543,2.44444444 C8.1420284,2.44444444 8.48888889,2.79130494 8.48888889,3.21917904 L8.48888889,7.7141543 C8.48888889,8.1420284 8.1420284,8.48888889 7.7141543,8.48888889 L-1.66970985,8.48888889 C-2.09758395,8.48888889 -2.44444444,8.1420284 -2.44444444,7.7141543 L-2.44444444,3.21917904 C-2.44444444,2.79130494 -2.09758395,2.44444444 -1.66970985,2.44444444 Z" id="path-4"></path>
+        <filter x="-16.0%" y="-29.0%" width="132.0%" height="157.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="2.39693487" y="0.520634921" width="1.19846743" height="1" rx="0.160535945"></rect>
+        <filter x="-41.7%" y="-192.1%" width="183.4%" height="484.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Favicon-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="0" y="0" width="16" height="16"></rect>
+        <g id="Group-Copy-2" transform="translate(4.977778, 2.488889)">
+            <g id="Rectangle" transform="translate(3.022222, 5.466667) rotate(90.000000) translate(-3.022222, -5.466667) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use stroke="url(#linearGradient-3)" stroke-width="0.5" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="Rectangle">
+                <use fill="#9E9D9D" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+            </g>
+        </g>
+    </g>
+</svg>
