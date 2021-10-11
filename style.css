@@ -1,0 +1,21 @@
+/*
+Header 1 "Oswald Bold 30"
+Subheader 1 "josefin sans 18"
+Body "Maven Pro" 12
+*/
+/*
+Dark Blue #292F44
+Middle Blue #586079
+Light Blue #BEC9EB
+White #FFFFFF
+Gray #D8D8D8
+Dark Gray #6B6969
+*/
+
+body {
+  background-color: lightgray;
+}
+
+body {
+  font-family: 'Maven Pro', sans-serif;
+}
