@@ -1,0 +1,92 @@
+/*
+Dark Blue #292F44
+Middle Blue #586079
+Light Blue #BEC9EB
+Orange #ff7f50
+White #FFFFFF
+Gray #D8D8D8
+Dark Gray #6B6969
+
+Heading 1 "Oswald 32"
+Subheader 1 "Josefin Sans 20"
+Body 1 "Maven 16"
+
+*/
+
+
+body {
+  background-color: #ffffff;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 16px; /* Sets the font size to 16px */
+  font-weight: 400; /* Sets the font weight to 300 */
+  line-height: 1.6; /* Sets the line-height to 1.6 * the font-size */
+  color: #4a4a4a;
+}
+body {
+  background-color: lightgray;
+}
+h1, h2, h3, h4 {
+  line-height: 1.4;
+}
+h1 {
+  font-size: 2.2em;
+  font-weight: 700;
+}
+h2 {
+  font-size: 2.0em;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.75em;
+  font-weight: 500;
+}
+h4 {
+  font-size: 1.2em;
+  font-weight: 400;
+}
+img {
+  width: 100%;
+}
+a {
+  color: #292f44;
+  text-decoration: none;
+}
+a:visited {
+color: #ff7f50;}
+a:hover,
+a:focus  {
+  color: #ff7f50;
+  text-decoration: underline;
+}
+a:active {
+  color: #ff7f50;
+}
+.button {
+  display: inline-block;
+  background-color: #ff7f50;
+  color: #ffffff;
+  font-weight: 400;
+  padding: 10px;
+  border-radius: 3px;
+  border-bottom: 2px solid #6b6969;
+  transition: 0.2s opacity;
+}
+.button:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+.button:active {
+  opacity: 0.8;
+  text-decoration: none;
+}
+.button.contact {
+  background-color: transparent;
+  color: #ff7f50;
+  text-transform: uppercase;
+  border: 2px solid #ff7f50;
+}
+.button.contact:hover {
+  background-color: #ff7f50;
+  color: #ffffff;
+  border: 2px solid #ff7f50
+}
