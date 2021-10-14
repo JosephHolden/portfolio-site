@@ -12,55 +12,71 @@ Subheader 1 "Josefin Sans 20"
 Body 1 "Maven 16"
 
 */
-
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: #ffffff;
   font-family: 'Maven Pro', sans-serif;
-  font-size: 16px; /* Sets the font size to 16px */
-  font-weight: 400; /* Sets the font weight to 300 */
-  line-height: 1.6; /* Sets the line-height to 1.6 * the font-size */
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
   color: #4a4a4a;
 }
+
 body {
   background-color: lightgray;
 }
+
 h1, h2, h3, h4 {
   line-height: 1.4;
 }
+
+
 h1 {
   font-size: 2.2em;
   font-weight: 700;
 }
+
 h2 {
   font-size: 2.0em;
   font-weight: 600;
 }
+
 h3 {
   font-size: 1.75em;
   font-weight: 500;
 }
+
 h4 {
   font-size: 1.2em;
   font-weight: 400;
 }
+
 img {
-  width: 100%;
+  width: 50%;
 }
+
 a {
   color: #292f44;
   text-decoration: none;
 }
-a:visited {
-color: #ff7f50;}
-a:hover,
-a:focus  {
+
+nav > ul > li > a:visited {
+  color: #D8D8D8;
+}
+
+nav > ul > li > a:hover,
+a:focus {
   color: #ff7f50;
   text-decoration: underline;
 }
-a:active {
-  color: #ff7f50;
+
+nav > ul > li > a:active {
+  color: #D8D8D8;
 }
+
 .button {
   display: inline-block;
   background-color: #ff7f50;
@@ -71,22 +87,105 @@ a:active {
   border-bottom: 2px solid #6b6969;
   transition: 0.2s opacity;
 }
+
 .button:hover {
   opacity: 0.8;
   text-decoration: none;
 }
+
 .button:active {
   opacity: 0.8;
   text-decoration: none;
 }
+
 .button.contact {
   background-color: transparent;
   color: #ff7f50;
   text-transform: uppercase;
   border: 2px solid #ff7f50;
 }
+
 .button.contact:hover {
   background-color: #ff7f50;
   color: #ffffff;
   border: 2px solid #ff7f50
+}
+
+#social {
+  width: 25px
+}
+
+/* Layout styling */
+.container {
+  padding: 0 15px;
+}
+
+.row {
+  margin: 25px 0;
+  /* 25px top and bottom, 0 left and right */
+}
+
+#work .row {
+  padding-bottom: 25px;
+  border-bottom: 1px solid #4a4a4a;
+}
+
+#hero h1, p{
+  text-align: center;
+color: #d8d8d8
+}
+
+.logo {
+  max-width: 250px;
+}
+header {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  background-color: #292F44;
+  text-align: center;
+  padding: 10px 0;
+  box-shadow: 1px 1px 9px 0px rgba(50, 50, 50, 0.47);
+
+  }
+  nav > ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  nav > ul > li {
+  display: inline-block;
+}
+nav > ul > li > a {
+  padding: 0 15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #ffffff;
+}
+nav {
+  display: inline-block;
+  width: 100%
+  }
+  #hero {
+    background-color: #292F44;
+    padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+  }
+
+  #hero p {
+    color: #d8d8d8
+  }
+  p {
+      text-align: left;
+    font-size: 1em;
+    font-weight: 400;
+    color: #4a4a4a
+  }
+  #intro {
+  padding: 10px}
+  main {
+    padding-top: 250px;
+  }
+#about {
+  padding-top: 230px
 }
