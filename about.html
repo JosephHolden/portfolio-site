@@ -13,11 +13,49 @@
 
 <body>
   <header>
-    <div class="container">
-      <picture>
-        <source srcset="img/Logos/Profile1@1x.jpg" media="(max-width:767px)">
-        <img src="img/Logos/Profile2@2x.jpg" alt="Joe Holden Image">
-      </picture>
+    <div id="about" class="container">
+      <svg width="100px" height="100px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <title>favicon</title>
+          <defs>
+              <linearGradient x1="68.2175931%" y1="53.4289162%" x2="2.08802321%" y2="34.7180911%" id="linearGradient-1">
+                  <stop stop-color="#EEEEEE" stop-opacity="0.1" offset="0%"></stop>
+                  <stop stop-color="#D8D8D8" stop-opacity="0.4" offset="100%"></stop>
+              </linearGradient>
+              <linearGradient x1="8.08890628%" y1="34.7180911%" x2="100%" y2="65.2819089%" id="linearGradient-2">
+                  <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+                  <stop stop-color="#B6B6B6" stop-opacity="0" offset="36.6979253%"></stop>
+                  <stop stop-color="#ACACAC" stop-opacity="0" offset="56.7821651%"></stop>
+                  <stop stop-color="#02114A" stop-opacity="0.5" offset="100%"></stop>
+              </linearGradient>
+              <path d="M-21.9659078,27.2 L91.3659078,27.2 C94.0357032,27.2 96.2,29.3642968 96.2,32.0340922 L96.2,90.3659078 C96.2,93.0357032 94.0357032,95.2 91.3659078,95.2 L-21.9659078,95.2 C-24.6357032,95.2 -26.8,93.0357032 -26.8,90.3659078 L-26.8,32.0340922 C-26.8,29.3642968 -24.6357032,27.2 -21.9659078,27.2 Z" id="path-3"></path>
+              <filter x="-8.3%" y="-13.6%" width="119.9%" height="136.0%" filterUnits="objectBoundingBox" id="filter-4">
+                  <feMorphology radius="1.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+                  <feOffset dx="2" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+                  <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+                  <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+                  <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+              </filter>
+              <rect id="path-5" x="27.2" y="6.2" width="14" height="3" rx="1.00169215"></rect>
+              <filter x="-3.6%" y="-16.7%" width="107.1%" height="133.3%" filterUnits="objectBoundingBox" id="filter-6">
+                  <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+                  <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+                  <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+                  <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+              </filter>
+          </defs>
+          <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Group" transform="translate(55.800000, 28.800000)">
+                  <g id="Rectangle" transform="translate(34.700000, 61.200000) rotate(90.000000) translate(-34.700000, -61.200000) ">
+                      <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                      <use stroke="url(#linearGradient-2)" stroke-width="0.5" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                  </g>
+                  <g id="Rectangle">
+                      <use fill="#9E9D9D" fill-rule="evenodd" xlink:href="#path-5"></use>
+                      <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                  </g>
+              </g>
+          </g>
+      </svg>
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -28,50 +66,50 @@
     </div>
   </header>
   <main>
-<div id="about">
-    <div class="container">
-                  <h2>My Story</h2>
-                  <p>I specialise in Experience, Interface & Graphic design, but also have a wide ranging professional background, which I believe gives me a unique design perspective. I graduated from Lancaster University (UK) and began work in a
-                    law
-                    firm, as a paralegal working in civil litigation, and as the head of the client care department. I later relocated to Germany and managed a gastronomy company, which own two different gastro-bars, one of which I was asked to
-                    design
-                    the whole concept for.</p>
-                  <p>With my combination of professional and creative experience I hope that I can bring another perspective to the evolution of interface design. I was really intrigued by what my design mentor once said; “where does design end?”.
-                    For
-                    me, the answer is that it doesn’t, it continuously evolves, and I’ so glad to be part of that evolution.
-                  </p><a href="files/cv.pdf" download>Download my CV</a>
-                </div>
-                <div>
-                  <h2>Skills & Tools</h2>
-                  <div>
-                    <h3>My Skills</h3>
-                    <ul>
-                      <li>User Interviews</li>
-                      <li>User Stories</li>
-                      <li>Personas</li>
-                      <li>User Flows</li>
-                      <li>Wireframes</li>
-                      <li>Branding</li>
-                      <li>Typography</li>
-                      <li>Iconography</li>
-                      <li>Visual Design</li>
-                    </ul>
-                  </div>
-                  <div>
-                    <h3>Tools</h3>
-                    <ul>
-                      <li>Sketch App</li>
-                      <li>Figma</li>
-                      <li>InVision</li>
-                      <li>Prott</li>
-                      <li>Illustrator</li>
-                      <li>Flinto</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-          </div>
+    <div id="about" class="container">
+      <div class="column col-md-6 col-lg-7">
+        <h2>My Story</h2>
+        <p>I specialise in Experience, Interface & Graphic design, but also have a wide ranging professional background, which I believe gives me a unique design perspective. I graduated from Lancaster University (UK) and began work in a
+          law
+          firm, as a paralegal working in civil litigation, and as the head of the client care department. I later relocated to Germany and managed a gastronomy company, which own two different gastro-bars, one of which I was asked to
+          design
+          the whole concept for.</p>
+        <p>With my combination of professional and creative experience I hope that I can bring another perspective to the evolution of interface design. I was really intrigued by what my design mentor once said; “where does design end?”.
+          For
+          me, the answer is that it doesn’t, it continuously evolves, and I’ so glad to be part of that evolution.
+        </p><a href="files/cv.pdf" download>Download my CV</a>
+      </div>
+      <div class="column col-md-6 col-lg-5">
+        <h2>Skills & Tools</h2>
+        <div class="col-md-6 col-lg-7">
+          <h3>My Skills</h3>
+          <ul>
+            <li>User Interviews</li>
+            <li>User Stories</li>c
+            <li>Personas</li>
+            <li>User Flows</li>
+            <li>Wireframes</li>
+            <li>Branding</li>
+            <li>Typography</li>
+            <li>Iconography</li>
+            <li>Visual Design</li>
+          </ul>
         </div>
+        <div class="col-md-6 col-lg-7">
+          <h3>Tools</h3>
+          <ul>
+            <li>Sketch App</li>
+            <li>Figma</li>
+            <li>InVision</li>
+            <li>Prott</li>
+            <li>Illustrator</li>
+            <li>Flinto</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
   </main>
   <footer id="contact">
     <div class="container">
