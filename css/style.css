@@ -78,7 +78,7 @@ nav>ul>li>a:active {
 
 .button {
   display: inline-block;
-  background-color: #ff7f50;
+  background-color: #FF6127;
   color: #ffffff;
   font-weight: 400;
   padding: 10px;
@@ -217,15 +217,15 @@ main {
 
 @keyframes color-change {
   0% {
-    fill: #E2E1E1;
+fill: #E2E1E1;
   }
 
   50% {
-    fill: #F1EFEF;
+  fill: #F1EFEF;
   }
 
   100% {
-    fill: #FFFFFF;
+fill: #FFFFFF;
   }
 }
 
@@ -243,7 +243,7 @@ main {
   right: 0;
   top: 2px;
   font-size: 40px;
-  padding-right: 10;
+  padding-right: 10px;
 }
 main {
   padding-top: 121px;
@@ -330,4 +330,4 @@ X-large devices (1440px or larger)
 
   .clear-float {
     clear: both;
-  }
+}
