@@ -85,6 +85,7 @@ nav>ul>li>a:active {
   border-radius: 3px;
   border-bottom: 2px solid #6b6969;
   transition: 0.2s opacity;
+  margin: 0px 0px 16px 0px
 }
 
 .button:hover {
@@ -251,7 +252,12 @@ main {
 .navtoggle.responsive li  {
   display: block;
 }
-
+#socialmedia {
+padding-top: 40px
+}
+#Contact {
+  margin-top: 16px
+  }
 /* ==============================
 Medium devices (640px and larger)
 ================================= */
@@ -312,6 +318,9 @@ Medium devices (640px and larger)
 main {
   padding-top: 141px;
 }
+
+
+
   /* ==============================
 Large devices (1024px or larger)
 ================================= */

@@ -1,0 +1,134 @@
+<picture id="mill-image">
+  <svg width="175px" height="295px" viewBox="0 0 175 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mill Image</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="mill-Image">
+        <g id="Building" transform="translate(42.000000, 225.000000)" fill="#4A4848">
+          <rect x="0" y="0" width="133" height="70"></rect>
+        </g>
+        <g id="Windows" transform="translate(49.000000, 232.000000)" fill="#D3D3D1">
+          <rect id="Rectangle" x="0" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-13" x="0" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-24" x="0" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-35" x="0" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-46" x="0" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-6" x="44" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-14" x="44" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-25" x="44" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-36" x="44" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-47" x="44" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-3" x="11" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-15" x="11" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-26" x="11" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-37" x="11" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-48" x="11" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-7" x="55" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-16" x="55" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-27" x="55" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-38" x="55" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-49" x="55" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-10" x="88" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-17" x="88" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-28" x="88" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-39" x="88" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-50" x="88" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-4" x="22" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-18" x="22" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-29" x="22" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-40" x="22" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-51" x="22" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-8" x="66" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-19" x="66" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-30" x="66" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-41" x="66" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-52" x="66" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-11" x="99" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-20" x="99" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-31" x="99" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-42" x="99" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-53" x="99" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-5" x="33" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-21" x="33" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-32" x="33" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-43" x="33" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-54" x="33" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-9" x="77" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-22" x="77" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-33" x="77" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-44" x="77" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-55" x="77" y="40" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-12" x="110" y="0" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-23" x="110" y="10" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-34" x="110" y="20" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-45" x="110" y="30" width="9" height="8"></rect>
+          <rect id="Rectangle-Copy-56" x="110" y="40" width="9" height="8"></rect>
+        </g>
+        <g id="reflections" transform="translate(49.000000, 232.252497)" fill="#E2E1E1">
+          <polygon id="Triangle" points="-7.49400542e-16 -7.11373728e-14 9 7.74750296 0 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-5" points="11 -7.11373728e-14 20 7.74750296 11 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-10" points="22 -7.11373728e-14 31 7.74750296 22 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-15" points="33 -7.11373728e-14 42 7.74750296 33 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-20" points="44 -7.11373728e-14 53 7.74750296 44 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-25" points="55 -7.11373728e-14 64 7.74750296 55 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-30" points="66 -7.11373728e-14 75 7.74750296 66 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-35" points="77 -7.11373728e-14 86 7.74750296 77 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-40" points="88 -7.11373728e-14 97 7.74750296 88 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-45" points="99 -7.11373728e-14 108 7.74750296 99 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-50" points="110 -7.11373728e-14 119 7.74750296 110 7.74750296"></polygon>
+          <polygon id="Triangle-Copy-2" points="-7.49400542e-16 20 9 27.747503 0 27.747503"></polygon>
+          <polygon id="Triangle-Copy-6" points="11 20 20 27.747503 11 27.747503"></polygon>
+          <polygon id="Triangle-Copy-11" points="22 20 31 27.747503 22 27.747503"></polygon>
+          <polygon id="Triangle-Copy-16" points="33 20 42 27.747503 33 27.747503"></polygon>
+          <polygon id="Triangle-Copy-21" points="44 20 53 27.747503 44 27.747503"></polygon>
+          <polygon id="Triangle-Copy-26" points="55 20 64 27.747503 55 27.747503"></polygon>
+          <polygon id="Triangle-Copy-31" points="66 20 75 27.747503 66 27.747503"></polygon>
+          <polygon id="Triangle-Copy-36" points="77 20 86 27.747503 77 27.747503"></polygon>
+          <polygon id="Triangle-Copy-41" points="88 19.9950059 97 27.7425089 88 27.7425089"></polygon>
+          <polygon id="Triangle-Copy-46" points="99 19.9950059 108 27.7425089 99 27.7425089"></polygon>
+          <polygon id="Triangle-Copy-51" points="110 19.9950059 119 27.7425089 110 27.7425089"></polygon>
+          <polygon id="Triangle-Copy" points="-7.49400542e-16 10 9 17.747503 0 17.747503"></polygon>
+          <polygon id="Triangle-Copy-7" points="11 10 20 17.747503 11 17.747503"></polygon>
+          <polygon id="Triangle-Copy-12" points="22 10 31 17.747503 22 17.747503"></polygon>
+          <polygon id="Triangle-Copy-17" points="33 10 42 17.747503 33 17.747503"></polygon>
+          <polygon id="Triangle-Copy-22" points="44 10 53 17.747503 44 17.747503"></polygon>
+          <polygon id="Triangle-Copy-27" points="55 10 64 17.747503 55 17.747503"></polygon>
+          <polygon id="Triangle-Copy-32" points="66 10 75 17.747503 66 17.747503"></polygon>
+          <polygon id="Triangle-Copy-37" points="77 10 86 17.747503 77 17.747503"></polygon>
+          <polygon id="Triangle-Copy-42" points="88 9.99750296 97 17.7450059 88 17.7450059"></polygon>
+          <polygon id="Triangle-Copy-47" points="99 9.99750296 108 17.7450059 99 17.7450059"></polygon>
+          <polygon id="Triangle-Copy-52" points="110 9.99750296 119 17.7450059 110 17.7450059"></polygon>
+          <polygon id="Triangle-Copy-3" points="-7.49400542e-16 30 9 37.747503 0 37.747503"></polygon>
+          <polygon id="Triangle-Copy-8" points="11 30 20 37.747503 11 37.747503"></polygon>
+          <polygon id="Triangle-Copy-13" points="22 30 31 37.747503 22 37.747503"></polygon>
+          <polygon id="Triangle-Copy-18" points="33 30 42 37.747503 33 37.747503"></polygon>
+          <polygon id="Triangle-Copy-23" points="44 30 53 37.747503 44 37.747503"></polygon>
+          <polygon id="Triangle-Copy-28" points="55 30 64 37.747503 55 37.747503"></polygon>
+          <polygon id="Triangle-Copy-33" points="66 30 75 37.747503 66 37.747503"></polygon>
+          <polygon id="Triangle-Copy-38" points="77 30 86 37.747503 77 37.747503"></polygon>
+          <polygon id="Triangle-Copy-43" points="88 29.9925089 97 37.7400118 88 37.7400118"></polygon>
+          <polygon id="Triangle-Copy-48" points="99 29.9925089 108 37.7400118 99 37.7400118"></polygon>
+          <polygon id="Triangle-Copy-53" points="110 29.9925089 119 37.7400118 110 37.7400118"></polygon>
+          <polygon id="Triangle-Copy-4" points="-7.49400542e-16 40 9 47.747503 0 47.747503"></polygon>
+          <polygon id="Triangle-Copy-9" points="11 40 20 47.747503 11 47.747503"></polygon>
+          <polygon id="Triangle-Copy-14" points="22 40 31 47.747503 22 47.747503"></polygon>
+          <polygon id="Triangle-Copy-19" points="33 40 42 47.747503 33 47.747503"></polygon>
+          <polygon id="Triangle-Copy-24" points="44 40 53 47.747503 44 47.747503"></polygon>
+          <polygon id="Triangle-Copy-29" points="55 40 64 47.747503 55 47.747503"></polygon>
+          <polygon id="Triangle-Copy-34" points="66 40 75 47.747503 66 47.747503"></polygon>
+          <polygon id="Triangle-Copy-39" points="77 40 86 47.747503 77 47.747503"></polygon>
+          <polygon id="Triangle-Copy-44" points="88 39.9900118 97 47.7375148 88 47.7375148"></polygon>
+          <polygon id="Triangle-Copy-49" points="99 39.9900118 108 47.7375148 99 47.7375148"></polygon>
+          <polygon id="Triangle-Copy-54" points="110 39.9900118 119 47.7375148 110 47.7375148"></polygon>
+        </g>
+        <g id="Chimney" transform="translate(4.000000, 100.000000)" fill="#4A4848">
+          <polygon id="Rectangle" points="6.17552591 0 15.5 0 24.4938643 0 31 195 0 195"></polygon>
+        </g>
+        <g id="smoke" fill="#4A4848" opacity="0.9">
+          <path
+            d="M39.5,0 C48.0604136,0 55,6.93958638 55,15.5 C55,18.4274083 54.1884586,21.165271 52.7780799,23.5008838 C54.1886902,25.8355104 55,28.5730094 55,31.5 C55,37.082732 52.0485349,41.9761124 47.6208575,44.7048885 C50.3312537,47.49413 52,51.3021867 52,55.5 C52,64.0604136 45.0604136,71 36.5,71 C35.9903298,71 35.4864051,70.9754007 34.9893484,70.9273247 L34.9968369,71.1836988 L35,71.5 C35,80.0604136 28.0604136,87 19.5,87 C10.9395864,87 4,80.0604136 4,71.5 C4,69.8171553 4.26818356,68.1969483 4.76414354,66.679786 C1.82766611,63.8594329 0,59.8931536 0,55.5 C0,51.1068464 1.82766611,47.1405671 4.76412027,44.3200402 C4.26818356,42.8030517 4,41.1828447 4,39.5 C4,33.3782673 7.54889226,28.0854228 12.7015444,25.5665988 C11.6135072,23.4472939 11,21.0452931 11,18.5 C11,9.93958638 17.9395864,3 26.5,3 C27.6529499,3 28.7764984,3.12588238 29.857651,3.36465272 C32.5035245,1.25829591 35.8548169,0 39.5,0 Z">
+          </path>
+        </g>
+      </g>
+    </g>
+  </svg>
+</picture>
